@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+
+body{
+  background-image: url(../Image/fondo.jpg);
+
+}
+
+.logo{
+  max-width: 100px;
+}
+
+
+#carousel{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#center{
+  text-align: center;
+}
+
+#center1{
+  text-align: center;
+}
+
+.card{
+  margin-bottom: 20px;
+}
+
+.medio{
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: bolder;
+  font-size: 70px;
+  text-align: center;
+}
+
+.card-title{
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.card-text{
+  font-family: 'Encode Sans Condensed', sans-serif;
+  font-size: 22px;
+  text-align: center;
+}
+
+.card-text1{
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+#footer{
+  text-align: center;
+}
+
+#boton{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
